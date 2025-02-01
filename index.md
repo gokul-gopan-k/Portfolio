@@ -3,7 +3,7 @@ layout: default
 title: Welcome to My Site
 ---
 
-# Welcome to My Personal Website
+# Welcome to My Personal
 
 Hello! I am **Richard Barella**, a Software Engineer at **Intel**. Welcome to my personal website built using GitHub Pages with the **jekyll-theme-minimal** theme.
 
