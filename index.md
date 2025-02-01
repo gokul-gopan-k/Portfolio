@@ -5,7 +5,7 @@ title: Welcome to My Site
 
 # Welcome to My Personal
 
-Hello! I am **Richard Barella**, a Software Engineer at **Intel**. Welcome to my personal website built using GitHub Pages with the **jekyll-theme-minimal** theme.
+Hello! I am **Richard Barella**, ah the **jekyll-theme-minimal** theme.
 
 Here, you'll find more information about my work, projects, and experience. Stay tuned for more updates!
 
